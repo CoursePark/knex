@@ -1,0 +1,5 @@
+0.10.1--blnp-.1
+- based off of the official 0.10.1 version
+- fixes a knex hang problem when handling sibling nested transactions
+- contains code prepared for merging upstream in pull request
+  https://github.com/tgriesser/knex/pull/1226
